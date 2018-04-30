@@ -1,9 +1,9 @@
 /*
-
 Tutorial #1
-compile with:  g++ -c main.cpp
-and then line to get the executable with:  g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
+compile with:  g++ -c BasicCircle.cpp
+and then line to get the executable with:
 
+    g++ BasicCircle.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
 */
 
 #include <SFML/Graphics.hpp>
